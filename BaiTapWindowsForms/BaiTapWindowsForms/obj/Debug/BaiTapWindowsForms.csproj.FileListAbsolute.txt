@@ -1,0 +1,14 @@
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\bin\Debug\BaiTapWindowsForms.exe.config
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\bin\Debug\BaiTapWindowsForms.exe
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\bin\Debug\BaiTapWindowsForms.pdb
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.csproj.AssemblyReference.cache
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.csproj.SuggestedBindingRedirects.cache
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.frmBai1.resources
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.frmChinh.resources
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.Properties.Resources.resources
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.csproj.GenerateResource.cache
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.csproj.CoreCompileInputs.cache
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.exe
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.pdb
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.frmBai2.resources
+D:\IT\HK2-Năm 2\PTUD\Lab 01\BaiTapWindowsForms\BaiTapWindowsForms\obj\Debug\BaiTapWindowsForms.frmBai3.resources
